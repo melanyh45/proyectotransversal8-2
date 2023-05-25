@@ -24,7 +24,6 @@
     position: relative;
     top: 50px; 
     
-    width: 190px;
     
     height: 190px;
     
@@ -37,7 +36,8 @@
     left: 180px;
     
     background-image: url("forest-3119826_640.jpg");
-    top: 300px;
+    top: 250px;
+    width: 1000px;
     
     
     }
