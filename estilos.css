@@ -21,25 +21,24 @@
     
     .img{
     
-    position: relative;
-    top: 50px; 
-    
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
+        position: relative;
+        top: 50px; 
+        
+        
+        height: 190px;
+        
+        border-radius: 10px;
+        
+        background-repeat: no-repeat;
+        
+         
+        
+        left: 180px;
     
     background-image: url("forest-3119826_640.jpg");
-    top: 250px;
+    top: 100px;
     width: 1000px;
-    
-    
+
     }
     
     .contenedor{
@@ -63,4 +62,5 @@
      
     
     }
+    
     
